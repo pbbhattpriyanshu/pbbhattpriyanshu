@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, python(django)**
 
-- 📫 How to reach me **bhattpriyanshupcm@gmail.com**
+- 📫 How to reach me **priyanshubhatt.dev@gmail.com**
 
 - ⚡ Fun fact **I think I am Introvert**
 
