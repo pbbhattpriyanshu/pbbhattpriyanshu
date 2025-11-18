@@ -22,16 +22,16 @@ Every day I learn, break, fix, and improve. My journey is simple: **write code, 
 
 ---
 
-### 📫 Reach Me At  
-**Email:** `priyanshubhatt.dev@gmail.com`  
-**GitHub:** [pbbhattpriyanshu](https://github.com/pbbhattpriyanshu)
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://priyanshu-portfolio-omega.vercel.app/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@bhattpriyanshu)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/piu_shbhatt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshupb01008/)
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30417752/priyanshu-bhatt)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Priyanshu12bha)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhattpriyanshupcm007@gmail.com)
 
----
 
-## 🌐 Connect With Me  
-<a href="https://www.linkedin.com/in/pbbhattpriyanshu" target="_blank">LinkedIn</a>  
-<a href="https://twitter.com/pbbhattpriyanshu" target="_blank">Twitter</a>  
-<a href="https://pbbhatt.hashnode.dev" target="_blank">Hashnode</a>
 
 ---
 
