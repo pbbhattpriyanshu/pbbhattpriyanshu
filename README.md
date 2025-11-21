@@ -3,7 +3,7 @@
 </p>
 
 # 👋 Hi, I'm Priyanshu Bhatt  
-**Aspiring Full-Stack Developer | MERN Stack 🚀 | Python & Django 🐍 | Java + DSA 💡 | Cloud Enthusiast ☁️**
+**Currently Full-Stack Developer | MERN Stack 🚀 | Python & FastAPI | Java + DSA 💡 | Cloud + Devops Enthusiast ☁️**
 
 I build things that live on the internet — from fast backend APIs to clean user interfaces.  
 Every day I learn, break, fix, and improve. My journey is simple: **write code, ship projects, and grow into a top engineer**.
@@ -21,7 +21,7 @@ Every day I learn, break, fix, and improve. My journey is simple: **write code, 
 ### 💬 Ask Me About  
 - React & modern frontend  
 - Node.js, Express, MongoDB  
-- Python & Django backend  
+- Python & FastAPI backend  
 - REST APIs, auth, project architecture  
 
 ---
