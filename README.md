@@ -126,7 +126,7 @@ Check them all on my repositories 👇
 ---
 
 ### ⚡ Fun Fact  
-I’m an introvert, but code makes me expressive.
+I love ❤ tea ☕. 
 
 ---
 
