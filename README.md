@@ -12,8 +12,9 @@ Every day I learn, break, fix, and improve. My journey is simple: **write code, 
 
 ### 🌱 Currently Learning  
 - MERN Stack & Production-level Backend  
-- FastAPI & Cloud Services (AWS)  
-- Devops 
+- Python & FastAPI
+- System design & LLMs
+- Cloud Services (AWS) & Devops 
 - Java + DSA for deep problem-solving  
 - GenAI tools & modern developer workflows  
 
