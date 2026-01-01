@@ -14,14 +14,14 @@ Every day I learn, break, fix, and improve. My journey is simple: **write code, 
 - MERN Stack & Production-level Backend  
 - Python & FastAPI
 - System design & LLMs
-- Cloud Services (AWS) & Devops 
+- Cloud Services (AWS), docker & Devops 
 - Java + DSA for deep problem-solving  
 - GenAI tools & modern developer workflows  
 
 ---
 
 ### 💬 Ask Me About  
-- React,Nextjs & modern frontend  
+- React, Nextjs & modern frontend  
 - Node.js, Express, MongoDB  
 - Python & FastAPI backend  
 - REST APIs, auth, project architecture  
