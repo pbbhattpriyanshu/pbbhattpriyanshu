@@ -22,7 +22,7 @@ Every day I learn, break, fix, and improve. My journey is simple: **write code, 
 
 ### 💬 Ask Me About  
 - React, Nextjs & modern frontend  
-- Node.js, Express, MongoDB  
+- Node.js, TypeScript, Express, MongoDB  
 - Python & FastAPI backend  
 - REST APIs, auth, project architecture  
 
