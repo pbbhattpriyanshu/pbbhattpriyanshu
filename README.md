@@ -114,16 +114,6 @@ Every day I learn, break, fix, and improve. My journey is simple: **write code, 
 Check them all on my repositories 👇  
 🔗 **github.com/pbbhattpriyanshu**
 
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pbbhattpriyanshu&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pbbhattpriyanshu&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pbbhattpriyanshu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pbbhattpriyanshu&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ---
 
