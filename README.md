@@ -110,7 +110,7 @@ Every day I learn, break, fix, and improve. My journey is simple: **write code, 
 - **ChatterBox** – Realtime chat app with MERN + Socket.io  
 - **CollabSphere** – Project collaboration platform with AI integration  
 - **Cutly** – URL shortener with analytics
-- **finTrust** – Powerful Banking Backed System 
+- **finTrust** – Powerful Banking Backend System 
 
 Check them all on my repositories 👇  
 🔗 **github.com/pbbhattpriyanshu**
