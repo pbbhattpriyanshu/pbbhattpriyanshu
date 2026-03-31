@@ -18,7 +18,7 @@
 
 🧑‍💻 **Full-Stack Developer** building things that live on the internet  
 🌱 Currently mastering **MERN Stack**, **Python + FastAPI**, and **System Design**  
-☁️ Exploring **AWS**, **Docker**, and **DevOps** practices  
+☁️ Exploring **AWS**, **Docker**, **CI-CD**, and **DevOps** practices  
 🧠 Strengthening fundamentals with **Java + DSA**  
 🤖 Playing with **GenAI tools** and modern developer workflows  
 📝 I write about what I learn on [Hashnode](https://hashnode.com/@bhattpriyanshu)  
@@ -121,7 +121,7 @@
 ```javascript
 const priyanshu = {
   pronouns:    "he/him",
-  code:        ["JavaScript", "TypeScript", "Python", "Java", "Go"],
+  code:        ["JavaScript", "Python", "Java"],
   askMeAbout:  ["React", "Node.js", "REST APIs", "System Design", "Auth"],
   currentFocus: "MERN Stack + FastAPI + AWS",
   architecture: ["MVC", "Layered (Controller → Service → DAO)", "REST"],
