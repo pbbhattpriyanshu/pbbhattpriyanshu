@@ -50,14 +50,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🧩 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### ⚙️ Backend
@@ -83,10 +82,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
@@ -106,10 +103,13 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [✂️ **Cutly**](https://github.com/pbbhattpriyanshu/Cutly) | URL shortener with analytics, click tracking & guest mode | `React` `Node.js` `MongoDB` `JWT` |
-| [💬 **ChatterBox**](https://github.com/pbbhattpriyanshu) | Realtime chat app with rooms and live messaging | `MERN` `Socket.io` `JWT` |
-| [🤝 **CollabSphere**](https://github.com/pbbhattpriyanshu) | Project collaboration platform with AI integration | `React` `Node.js` `AI` |
-| [🏦 **finTrust**](https://github.com/pbbhattpriyanshu) | Powerful banking backend system with secure transactions | `Node.js` `MongoDB` `JWT` |
+| 🏦 [**FinTrust**](https://github.com/pbbhattpriyanshu) | Banking backend with double-entry ledger, ACID transactions & idempotent APIs | `Node.js` `MongoDB` `JWT` `Docker` |
+| 🤖 [**NextHire**](https://github.com/pbbhattpriyanshu) | AI-powered interview prep platform with Gemini API & Redis caching (~35% faster responses) | `Node.js` `Redis` `AWS` `AI` |
+| 🗳️ [**VoteDock**](https://github.com/pbbhattpriyanshu) | Scalable voting system with Docker, CI/CD & AWS deployment | `Node.js` `MongoDB` `Docker` `CI/CD` |
+| ✂️ [**Cutly**](https://github.com/pbbhattpriyanshu/Cutly) | URL shortener with analytics, click tracking & guest mode | `React` `Node.js` `MongoDB` `JWT` |
+| 💬 [**ChatterBox**](https://github.com/pbbhattpriyanshu) | Real-time chat app with rooms, live messaging & socket-based communication | `MERN` `Socket.io` `JWT` |
+| 🤝 [**CollabSphere**](https://github.com/pbbhattpriyanshu) | Collaboration platform with AI features for project workflows | `React` `Node.js` `AI` |
+| ⚙️ [**Backend API Systems**](https://github.com/pbbhattpriyanshu) | Collection of scalable REST APIs with authentication, caching & system design patterns | `Node.js` `FastAPI` `MongoDB` `Redis` |
 
 </div>
 
