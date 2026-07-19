@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Priyanshu%20Bhatt&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Python%20%7C%20Cloud&descAlignY=58&descSize=18" width="100%" />
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Python+%7C+FastAPI;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Java+%2B+DSA+%7C+System+Design+%F0%9F%A7%A0;Building+things+that+live+on+the+internet+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Python+%7C+.NET;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Java+%2B+DSA+%7C+System+Design+%F0%9F%A7%A0;Building+things+that+live+on+the+internet+%F0%9F%8C%90)](https://git.io/typing-svg)
 <br/>
 </div>
 
