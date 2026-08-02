@@ -17,10 +17,10 @@
 ## 👋 Hey there, I'm Priyanshu!
 
 🧑‍💻 **Backend Engineer** building scalable systems that power real-world applications  
-🚀 Specialized in **Node.js, ASP.NET Core, FastAPI, and system design**  
+🚀 Specialized in **Node.js, ASP .NET Core, FastAPI, and system design**  
 ⚡ Experienced in **high-performance APIs, authentication, caching (Redis), and concurrency**  
 ☁️ Working with **AWS (EC2, S3), Docker, CI/CD pipelines, and cloud deployments**  
-🧠 Practicing **DSA (Python) and system design fundamentals**  
+🧠 Practicing **DSA (Java) and system design fundamentals**  
 🤖 Exploring **AI integrations (Gemini API)**  
 
 💡 Philosophy:  
@@ -48,20 +48,20 @@
 ### 🧠 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)   
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🧩 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)   
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### 🗄️ Databases
@@ -120,9 +120,9 @@
 ```javascript
 const priyanshu = {
   pronouns:    "he/him",
-  code:        ["JavaScript", "Python", "Java", "C#"],
+  code:        ["JavaScript", "C#", "Java", "Python"],
   askMeAbout:  ["Angular", "Node.js", "REST APIs", "System Design", "Auth"],
-  currentFocus: "MERN Stack + ASP.NET Core + FastAPI + AWS",
+  currentFocus: "MEAN Stack + ASP.NET Core + FastAPI + AWS",
   architecture: ["MVC", "Layered (Controller → Service → DAO)", "REST"],
   funFact:     "I debug with console.log and I'm not ashamed 🫠",
   goal:        "Ship fast. Learn faster. Become a top engineer. 🚀",
