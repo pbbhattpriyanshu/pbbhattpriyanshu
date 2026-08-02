@@ -17,7 +17,7 @@
 ## 👋 Hey there, I'm Priyanshu!
 
 🧑‍💻 **Backend Engineer** building scalable systems that power real-world applications  
-🚀 Specialized in **Node.js, Asp.NET Core, FastAPI, and system design**  
+🚀 Specialized in **Node.js, ASP.NET Core, FastAPI, and system design**  
 ⚡ Experienced in **high-performance APIs, authentication, caching (Redis), and concurrency**  
 ☁️ Working with **AWS (EC2, S3), Docker, CI/CD pipelines, and cloud deployments**  
 🧠 Practicing **DSA (Python) and system design fundamentals**  
@@ -122,7 +122,7 @@ const priyanshu = {
   pronouns:    "he/him",
   code:        ["JavaScript", "Python", "Java", "C#"],
   askMeAbout:  ["Angular", "Node.js", "REST APIs", "System Design", "Auth"],
-  currentFocus: "MERN Stack + Asp.NET Core + FastAPI + AWS",
+  currentFocus: "MERN Stack + ASP.NET Core + FastAPI + AWS",
   architecture: ["MVC", "Layered (Controller → Service → DAO)", "REST"],
   funFact:     "I debug with console.log and I'm not ashamed 🫠",
   goal:        "Ship fast. Learn faster. Become a top engineer. 🚀",
